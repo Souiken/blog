@@ -1,0 +1,84 @@
+# Header
+menu:                      # Links in the navigation bar
+  主页: /
+  存档: /archives
+  关于: /about
+  友链: /links
+rss: /atom.xml
+
+home:
+  style: default           # default, detail
+
+favicon:                   # Path to the custom favicon relative to /source (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
+
+# Banner
+banner:
+  enable: true                  # Display banner
+  url: https://static.lingxh.net/img/PixPin_2024-01-08_17-29-17.png                          # Path to the banner image relative to /source. Web url is also supported
+  position: center               # Specifies the alignment of the image, see the "object-position" property in CSS
+  onAllPages: true               # Display banner on all pages instead of only the home page
+
+# Appearance
+hue: 250                         # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
+                                 # Visit `saicaca.github.io/vivia-preview` to preview the theme color
+
+# Personal info
+avatar: https://souiken.moe/img/avatar.webp                          # Path to the avatar image relative to /source
+author: Souiken
+subtitle: Meow~
+links:
+  - name: Twitter(X)
+    icon: ri-twitter-fill      # Find icon codes at https://fontawesome.com/search
+    url: https://twitter.com/IzumiSouiken
+  - name: Steam
+    icon: ri-steam-fill
+    url: https://steamcommunity.com/id/Souiken
+  - name: GitHub
+    icon: ri-github-fill
+    url: https://github.com/Souiken
+
+# Sidebar
+sidebar:
+  widgets:                 # Plugins to be enabled (profile, category, tag, archive, recent_posts)
+    normal:                # Scroll along with the page
+      - profile
+    sticky:                # Stick to the top of the page
+      - category
+      - tag
+      - archive
+      - recent_posts
+
+# Sidebar Widget behavior
+archive_type: 'monthly'
+recent_posts_limits: 5
+categories:
+  max_depth: 2             # Maximum depth of categories displayed in the widget (null for unlimited)
+
+# Third-party comment system
+comment:
+  valine:
+    enable: false         # Enable Valine comment system
+    appId: 
+    appKey: 
+    placeholder: Just go go
+    pageSize: 10
+    highlight: true
+    serverURLs: 
+    # Other supported parameters can be added here if needed
+    # Visit https://valine.js.org/configuration.html for more details
+  twikoo:
+    enable: true          # Enable Twikoo comment system
+    envID: https://euphonious-selkie-de6f1b.netlify.app/.netlify/functions/twikoo
+    #region:
+    #path: location.pathname
+    lang: zh-CN
+    # See also: https://github.com/imaegoo/twikoo
+
+#Analytics
+gauges_analytics: false
+google_analytics: false #UA-xxxxxx
+baidu_analytics: false # ddxxxxxxxxxxxxxxxxx In the https://hm.baidu.com/hm.js? Afterwards
+
+moe_icp: 
+  enable: true
+  number: 20240721

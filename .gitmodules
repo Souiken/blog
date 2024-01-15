@@ -1,0 +1,3 @@
+[submodule "themes/vivia"]
+	path = themes/vivia
+	url = https://github.com/lingxh/hexo-theme-vivia
