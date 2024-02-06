@@ -67,8 +67,8 @@ comment:
     # Other supported parameters can be added here if needed
     # Visit https://valine.js.org/configuration.html for more details
   twikoo:
-    enable: true          # Enable Twikoo comment system
-    envID: https://euphonious-selkie-de6f1b.netlify.app/.netlify/functions/twikoo
+    enable: false          # Enable Twikoo comment system
+    envID: https://twikoo-iota-lemon.vercel.app/
     #region:
     #path: location.pathname
     lang: zh-CN
