@@ -54,6 +54,11 @@ links:
     url: https://japerz.com/
     img_url: https://q.qlogo.cn/g?b=qq&nk=1952135253&s=100
     text: 是新朋友~还是老相识呢？
+- link:
+    title: XieXiLin's Home
+    url: https://www.xiexilin.com/
+    img_url: https://static.xiexilin.com/Me.png
+    text: 这个人很懒, 没有什么想写的.
 
 # 无法正常访问的:
 # - link:
@@ -62,7 +67,7 @@ links:
 #     img_url: https://seayay.icu/images/avatar.jpg
 #     text: Seayay 的博客, 随便写点什么.
 ---
->需要交换友链请发送邮件至[souiken@qq.com】(mailto:souiken@qq.com)
+>需要交换友链请发送邮件至[souiken@qq.com](mailto:souiken@qq.com)
 >需要包含:
 >网站名称
 >网站地址(需支持https)
