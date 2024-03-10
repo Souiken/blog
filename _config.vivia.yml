@@ -36,6 +36,9 @@ links:
   - name: GitHub
     icon: ri-github-fill
     url: https://github.com/Souiken
+  - name: Somebody I was lost
+    icon: ri-planet-line
+    url: https://souiken.moe/memorial/
 
 # Sidebar
 sidebar:
