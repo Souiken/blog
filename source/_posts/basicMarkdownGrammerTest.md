@@ -63,4 +63,5 @@ $\therefore \cos(\alpha+\beta)$
 $= \cos \alpha \times \cos \beta - \sin \alpha \times \sin \beta$
 $= -\cos^{2}{\beta} - \sin{\beta}(1 - \sin{\beta})$
 $= -\cos^{2}{\beta} - \sin{\beta} + \sin^{2}{\beta}$
-$= 2\sin^{2}{\beta} - \sin{\beta}-1 = (2\sin{\beta} + 1)(\sin{\beta} - 1)$
+$= 2\sin^{2}{\beta} - \sin{\beta}-1$
+$= (2\sin{\beta} + 1)(\sin{\beta} - 1)$
