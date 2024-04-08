@@ -5,6 +5,11 @@ layout: links
 email: souiken@qq.com
 links:
 - link:
+    title: Rikkaの小小窝
+    url: https://rikka.im/
+    img_url: https://api.rikka.im/api/v2/objects/avatar/wvajt5li5meprmtdbz.png
+    text: 早上好哦(つω`*)～☆
+- link:
     title: Big_Cake的博客
     url: https://lihaoyu.cn/
     img_url: https://blog-api.lihaoyu.cn/avatar
