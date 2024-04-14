@@ -21,7 +21,7 @@ links:
     text: 梦是幽蓝色彩 灵魂如雪纯白
 - link:
     title: huige233's blog
-    link: https://huige233.com
+    link: https://huige233.com/
     img_url: https://avatars.githubusercontent.com/u/61108540
     text: Everyone can be the light in the darkness.
 - link:
@@ -31,7 +31,7 @@ links:
     text: 下一次相遇可能在任何地方，但我们始终灿烂如星海。
 - link:
     title: Lemonkooi~
-    link: https://lemonkoi.one
+    link: https://lemonkoi.one/
     img_url: https://cravatar.cn/avatar/22b242a28bb848f2629f2a636bba9c03?s=1000
     text: 是夹子不是架子！
 - link:
