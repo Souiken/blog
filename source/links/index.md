@@ -40,6 +40,11 @@ links:
     img_url: https://cfdn.nofated.win/avatars/avatar.webp
     text: 这个人很懒, 没有什么想写的.
 - link:
+    title: 绒绒洛
+    url: https://qwq.dog
+    img_url: https://qwq.dog/pic/avatar.png
+    text: 俯いたまま大人になって
+- link:
     title: Big_Cake的博客
     url: https://lihaoyu.cn/
     img_url: https://blog-api.lihaoyu.cn/avatar
