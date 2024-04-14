@@ -45,6 +45,11 @@ links:
     img_url: https://qwq.dog/pic/avatar.png
     text: 俯いたまま大人になって
 - link:
+    title: 橘纸柚
+    url: https://lovemen.cc/
+    img_url: https://lovemen.cc/usr/hotlink-ok/avatar.jpg
+    text: 一颗烂橘子
+- link:
     title: Big_Cake的博客
     url: https://lihaoyu.cn/
     img_url: https://blog-api.lihaoyu.cn/avatar
