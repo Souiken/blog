@@ -115,8 +115,8 @@ links:
 >网站描述(不写则为 `这个人没有什么想说的`)
 
 >本站信息
->网站名称: Souiken's Blog
->网站地址k: https://souiken.moe/
+>网站名称: Souiken's Homepage
+>网站地址: https://souiken.moe/
 >网站图标(jpg): https://souiken.moe/img/avatar.jpg
 >网站图标(png): https://souiken.moe/img/avatar.png
 >网站图标(webp): https://souiken.moe/img/avatar.webp
