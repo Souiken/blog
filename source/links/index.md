@@ -10,6 +10,36 @@ links:
     img_url: https://api.rikka.im/api/v2/objects/avatar/wvajt5li5meprmtdbz.png
     text: 早上好哦(つω`*)～☆
 - link:
+    title: Jackie的小角落
+    url: https://jackiecat.top/
+    img_url: https://cdn.lightxi.com/cloudreve/uploads/2024/01/26/znjb7cvZ_avatar.jpg
+    text: 喵？
+- link:
+    title: SakuraKooi's Blog
+    url: https://blog.sakurakooi.dev/
+    img_url: https://blog.sakurakooi.dev/images/sakurakooi.webp
+    text: 梦是幽蓝色彩 灵魂如雪纯白
+- link:
+    title: huige233's blog
+    link: https://huige233.com
+    img_url: https://avatars.githubusercontent.com/u/61108540
+    text: Everyone can be the light in the darkness.
+- link:
+    title: Seven SUN
+    link: https://sunyz.net/
+    img_url: https://gravatar.com/avatar/f00abd61daa5520cd384fe0d1136d3b40df021ac87089061fe99b4a3f74dc9a2/
+    text: 下一次相遇可能在任何地方，但我们始终灿烂如星海。
+- link:
+    title: Lemonkooi~
+    link: https://lemonkoi.one
+    img_url: https://cravatar.cn/avatar/22b242a28bb848f2629f2a636bba9c03?s=1000
+    text: 是夹子不是架子！
+- link:
+    title: Amane's Blog
+    link: https://blog.amane.icu/links/
+    img_url: https://cfdn.nofated.win/avatars/avatar.webp
+    text: 这个人很懒, 没有什么想写的.
+- link:
     title: Big_Cake的博客
     url: https://lihaoyu.cn/
     img_url: https://blog-api.lihaoyu.cn/avatar
@@ -64,6 +94,11 @@ links:
     url: https://www.xiexilin.com/
     img_url: https://static.xiexilin.com/Me.png
     text: 这个人很懒, 没有什么想写的.
+- link:
+    title: Zhuym的博客
+    url: https://blog.zer0code.cn/
+    img_url: https://s1.ax1x.com/2022/03/06/bBDeJI.png
+    text: Zhuym的个人博客
 
 # 无法正常访问的:
 # - link:
