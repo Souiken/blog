@@ -57,7 +57,7 @@ links:
 - link:
     title: 23335507的博客
     url: https://www.233355607.xyz/
-    img_url: https://user-images.githubusercontent.com/81961962/211612747-2a8cd8ca-d9dc-43e1-8c0c-c0dc4545af6e.gif
+    img_url: https://avatars.slirv.vip/alice
     text: 这个人很懒, 没有什么想写的.
 - link:
     title: ZhouHu的博客
