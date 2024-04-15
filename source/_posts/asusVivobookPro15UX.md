@@ -18,7 +18,7 @@ tags:
 
 键盘使用了半尺寸方向键和一个小键盘，以及多余的 Insert 和 Delete 按键。触控板带有 Asus DialPad 对我来说用来调整音量和时间线比较方便。
 
-左侧有一个 USB-A 5Gbps 和一个 SD卡 读卡器。大部分接口位于右侧，包含电源插口、RJ45端口、HDMI(2.1)、USB-A 5Gbps、USB-C 20Gbps(雷电4)、USB-C 10Gbps 和一个先进的 TRRS(耳机麦克风) 端口。两个 USB C 端口均可以支持 PD(电力) 和 DP(图像) 协议。
+左侧有一个 USB-A 5Gbps 和一个 SD卡 读卡器。大部分接口位于右侧，包含电源插口、RJ45端口、HDMI(2.1)、两个USB-A 5Gbps、USB-C 40Gbps(雷电4)、USB-C 10Gbps 和一个先进的 TRRS(耳机麦克风) 端口。两个 USB C 端口均可以支持 PD(电力) 和 DP(图像) 协议。
 自带的无线网卡支持 802.11ax 和 BT5.3 。
 
 拆开后可以发现有一个未使用的 Nvme 固态空位，另一个是一根 1T 的固态。内存位插有一根 DDR5 16GB 内存。
