@@ -3,6 +3,7 @@ title: basic markdown grammer test
 date: 2024-01-15 23:55:16
 tags:
     - 测试
+photos: /assets/niceboat.png
 ---
 
 # test
@@ -36,9 +37,11 @@ tags:
 | A | B | C | D |
 | - | - | - | - |
 | E | F | G | H |
+| I | J | K | L |
 
 - awa
 - qwq
+- www
   
 1. a
 2. b
@@ -51,6 +54,8 @@ Right?
 : Right
 : UnRight ~~(Left)~~
 
+---
+[![nice boat](/assets/niceboat.png)](https://www.bilibili.com/video/BV1BD4y197Je/?t=278)
 ---
 
 $\begin{array}{c} 
