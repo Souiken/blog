@@ -55,7 +55,9 @@ Right?
 : UnRight ~~(Left)~~
 
 ---
+
 [![nice boat](/assets/niceboat.png)](https://www.bilibili.com/video/BV1BD4y197Je/?t=278)
+
 ---
 
 $\begin{array}{c} 
