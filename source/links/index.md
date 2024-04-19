@@ -21,22 +21,27 @@ links:
     text: 梦是幽蓝色彩 灵魂如雪纯白
 - link:
     title: huige233's blog
-    link: https://huige233.com/
+    url: https://www.huige233.com/
     img_url: https://avatars.githubusercontent.com/u/61108540
     text: Everyone can be the light in the darkness.
 - link:
+    title: 一叶知秋
+    url: https://blog.rain.cx/
+    img_url: https://avatars.githubusercontent.com/u/53731501
+    text: 悟已往之不谏，知来者之可追
+- link:
     title: Seven SUN
-    link: https://sunyz.net/
+    url: https://sunyz.net/
     img_url: https://gravatar.com/avatar/f00abd61daa5520cd384fe0d1136d3b40df021ac87089061fe99b4a3f74dc9a2/
     text: 下一次相遇可能在任何地方，但我们始终灿烂如星海。
 - link:
     title: Lemonkooi~
-    link: https://lemonkoi.one/
+    url: https://lemonkoi.one/
     img_url: https://cravatar.cn/avatar/22b242a28bb848f2629f2a636bba9c03?s=1000
     text: 是夹子不是架子！
 - link:
     title: Amane's Blog
-    link: https://blog.amane.icu/links/
+    url: https://blog.amane.icu/links/
     img_url: https://cfdn.nofated.win/avatars/avatar.webp
     text: 这个人很懒, 没有什么想写的.
 - link:
