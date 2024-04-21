@@ -55,6 +55,11 @@ links:
     img_url: https://lovemen.cc/usr/hotlink-ok/avatar.jpg
     text: 一颗烂橘子
 - link:
+    title: 中弦星空魔法屋
+    url: https://blog.sinzmise.top/
+    img_url: https://blog.sinzmise.top/img/512.png
+    text: 种下一颗有故事的种子，让它带着魔法和奇迹生根发芽
+- link:
     title: Big_Cake的博客
     url: https://lihaoyu.cn/
     img_url: https://blog-api.lihaoyu.cn/avatar
