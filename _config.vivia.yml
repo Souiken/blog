@@ -71,7 +71,7 @@ comment:
     # Visit https://valine.js.org/configuration.html for more details
   twikoo:
     enable: false          # Enable Twikoo comment system
-    envID: https://twikoo-iota-lemon.vercel.app/
+    envID: https://twikoo.api.souiken.moe/
     #region:
     #path: location.pathname
     lang: zh-CN
