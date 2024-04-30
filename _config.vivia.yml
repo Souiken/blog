@@ -70,7 +70,7 @@ comment:
     # Other supported parameters can be added here if needed
     # Visit https://valine.js.org/configuration.html for more details
   twikoo:
-    enable: false          # Enable Twikoo comment system
+    enable: true         # Enable Twikoo comment system
     envID: https://twikoo.api.souiken.moe/
     #region:
     #path: location.pathname
