@@ -82,7 +82,7 @@ links:
 - link:
     title: ZhouHu的博客
     url: https://gitpor.cn/
-    img_url: http://q1.qlogo.cn/g?b=qq&nk=2708826140&s=640
+    img_url: https://gitpor.cn/46279874.jpg
     text: 人生最大的障碍就是孤独,我们既无法理解也无法解决孤独,但孤独能促使倩倩.
 - link:
     title: Old_Whale的博客
