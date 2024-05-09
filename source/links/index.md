@@ -128,6 +128,7 @@ links:
 #     text: Seayay 的博客, 随便写点什么.
 ---
 >需要交换友链请发送邮件至[souiken@qq.com](mailto:souiken@qq.com)
+>或发送评论
 >需要包含:
 >网站名称
 >网站地址(需支持https)
