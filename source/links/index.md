@@ -10,6 +10,11 @@ links:
     img_url: https://s2.loli.net/2024/05/09/VqCwl3RIPyHo4uD.jpg
     text: 喵？(PS:是特意把Jackie和雨宸放一起的(逃)
 - link:
+    title: 落雨宸
+    url: https://lzc256.com/
+    img_url: https://s1.lzc256.com/firefish/firefish/9c4ab03d-f895-4b94-a4d9-e8a3ab578e16.jpg
+    text: 苦逼高中牲，二分之一少女。
+- link:
     title: Rikkaの小小窝
     url: https://rikka.im/
     img_url: https://api.rikka.im/api/v2/objects/avatar/wvajt5li5meprmtdbz.png
@@ -59,6 +64,11 @@ links:
     url: https://blog.sinzmise.top/
     img_url: https://blog.sinzmise.top/img/512.png
     text: 种下一颗有故事的种子，让它带着魔法和奇迹生根发芽
+- link:
+    title: TaranakiNeko
+    url: https://nekoq.top/
+    img_url: https://nekoq.top/images/taranaki.webp
+    text: A cat(girl) lying on the keyboard.
 - link:
     title: Big_Cake的博客
     url: https://lihaoyu.cn/
