@@ -74,4 +74,4 @@ $= 2\sin^{2}{\beta} - \sin{\beta}-1$
 $= (2\sin{\beta} + 1)(\sin{\beta} - 1)$
 
 $\ce{BaCO3 + 2HCl -> BaCl2 + CO2 + H2O} $
-$\ce{BaCl2 + Na2SO4 -> BaSo4 v + 2NaCl} $
+$\ce{BaCl2 + Na2SO4 -> BaSO4 v + 2NaCl} $
