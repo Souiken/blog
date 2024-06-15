@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>OOPS...</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<style>
+			.tool-flex-center {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+			}
+      .page-error-wrapper {
+          min-height: 100vh;
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          overflow: hidden auto;
+          background: #2068b4;
+          color: white;
+          font-size: 1.5em;
+          z-index: 9999;
+          user-select: none;
+      }
+
+      .page-error-layer {
+          max-width: 1024px;
+          width: calc(100% - 12px);
+          padding: 12px 12px 36px;
+      }
+
+      .sad {
+          font-size: 5em;
+          margin-bottom: 12px;
+      }
+      .error-footer {
+          display: flex;
+      }
+      .error-qrcode {
+          width: 150px;
+          height: 150px;
+          margin-right: 16px;
+          background: url("/assets/QR-Code.png") center/contain no-repeat;
+          image-rendering: pixelated;
+      }
+      .error-contact {
+          margin-top: -0.2em;
+      }
+      .backtrace {
+          font-size: 1rem;
+          user-select: text;
+          overflow: auto;
+      }
+      .backtrace-trigger {
+          cursor: pointer;
+      }
+
+      @media screen and (max-width: 520px) {
+          .error-footer {
+              flex-direction: column;
+          }
+
+          .error-contact {
+              margin-top: 12px;
+          }
+      }
+	</style>
+</head>
+<body>
+<div class="page-error-wrapper tool-flex-center">
+	<div class="page-error-layer">
+		<div class="sad">
+			:(
+		</div>
+		<div class="error-tip">
+			你打开了一个完全不存在的网页nya!
+			<br>
+			你是怎么找到这里的ei?
+			<br>
+			<br>
+			101% 完蛋了QAQ
+			<br>
+			<br>
+		</div>
+		<div class="error-footer">
+			<div class="error-qrcode"><img src="./assets/QR-Code.png" height="150" /></div>
+			<div class="error-contact">
+				有关此问题的详细信息和可能的解决方法:
+				<br>
+				回退到上一页, 或联系网站管理员
+				<br><br>
+				错误信息: 404_NOT_FOUND<!--{{ERROR-PLACEHOLDER}}-->
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</body></html>
