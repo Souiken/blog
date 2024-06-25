@@ -129,6 +129,12 @@ links:
     url: https://blog.zer0code.cn/
     img_url: https://s1.ax1x.com/2022/03/06/bBDeJI.png
     text: Zhuym的个人博客
+- link:
+    title: Cascade
+    url: https://blog.cascade.moe/
+    img_url: https://cascade.moe/images/avatar.webp
+    text: 工程师猫娘
+
 
 # 无法正常访问的:
 # - link:
