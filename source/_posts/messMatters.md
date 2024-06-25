@@ -1,8 +1,10 @@
 ---
 title: 杂与谈 Mess Matters
 date: 2024-4-21 22:18:00
+categories: 杂谈
 tags: 
     - 杂谈
+    - 旧事重提
 ---
 # 曾
 我曾写过一段话：
