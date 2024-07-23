@@ -134,7 +134,11 @@ links:
     url: https://blog.cascade.moe/
     img_url: https://cascade.moe/images/avatar.webp
     text: 工程师猫娘
-
+- link:
+    title: aisuneko/blog
+    url: https://aisuneko.moe/
+    img_url: https://aisuneko.moe/images/avatar.webp
+    text: // flow just like liquid ice.
 
 # 无法正常访问的:
 # - link:
