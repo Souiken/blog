@@ -17,7 +17,7 @@ links:
 - link:
     title: Rikkaの小小窝
     url: https://rikka.im/
-    img_url: https://api.rikka.im/api/v2/objects/avatar/wvajt5li5meprmtdbz.png
+    img_url: https://rikka.im/img/avatar_hu9344251879842479875.webp
     text: 早上好哦(つω`*)～☆
 - link:
     title: SakuraKooi's Blog
@@ -139,6 +139,11 @@ links:
     url: https://aisuneko.moe/
     img_url: https://aisuneko.moe/images/avatar.webp
     text: // flow just like liquid ice.
+- link:
+    title: 梦想之都
+    url: https://hexo.dreamerhe.cn
+    img_url: https://jsd.dreamerhe.cn/gh/dreamerhe114514/baimgapi@main/image/tx.png
+    text: 朝着梦想前进！
 
 # 无法正常访问的:
 # - link:
