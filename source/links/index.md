@@ -87,7 +87,7 @@ links:
 - link:
     title: 23335507的博客
     url: https://www.233355607.xyz/
-    img_url: https://avatars.slirv.vip/alice
+    img_url: https://www.zidusama.xyz/wp-content/uploads/2024/01/8585-150x150.jpg
     text: 这个人很懒, 没有什么想写的.
 - link:
     title: ZhouHu的博客
@@ -99,11 +99,6 @@ links:
     url: https://www.cube-aquarium.url/
     img_url: https://cravatar.cn/avatar/ef4d54c98fb592d4cca1c9f4ae54e45e?s=56&d=identicon&r=pg
     text: 看, 这就是生活. 老鲸的记忆...
-- link:
-    title: 云默安的博客
-    url: https://yma.zyghit.cn/
-    img_url: https://i.zyghit.cn/img/QQ%E5%9B%BE%E7%89%8720210523212348.jpg
-    text: 追随心中的信念.
 - link:
     title: GuCATs'摸鱼站
     url: https://goo-aw233.github.io/
@@ -140,10 +135,10 @@ links:
     img_url: https://aisuneko.moe/images/avatar.webp
     text: // flow just like liquid ice.
 - link:
-    title: 梦想之都
-    url: https://hexo.dreamerhe.cn
-    img_url: https://jsd.dreamerhe.cn/gh/dreamerhe114514/baimgapi@main/image/tx.png
-    text: 朝着梦想前进！
+    title: Ros' MainPage
+    url: https://rosmontis.rhodes-island.work/
+    img_url: https://rosmontis.rhodes-island.work/img/ros.jpg
+    text: 喵喵喵猫猫
 
 # 无法正常访问的:
 # - link:
@@ -151,6 +146,16 @@ links:
 #     url: https://seayay.icu/
 #     img_url: https://seayay.icu/images/avatar.jpg
 #     text: Seayay 的博客, 随便写点什么.
+# - link:
+#     title: 梦想之都
+#     url: https://hexo.dreamerhe.cn
+#     img_url: https://jsd.dreamerhe.cn/gh/dreamerhe114514/baimgapi@main/image/tx.png
+#     text: 朝着梦想前进！
+# - link:
+#     title: 云默安的博客
+#     url: https://yma.zyghit.cn/
+#     img_url: https://i.zyghit.cn/img/QQ%E5%9B%BE%E7%89%8720210523212348.jpg
+#     text: 追随心中的信念.
 ---
 >需要交换友链请发送邮件至[souiken@qq.com](mailto:souiken@qq.com)
 >或发送评论
