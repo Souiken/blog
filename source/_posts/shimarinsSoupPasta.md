@@ -1,8 +1,8 @@
 ---
 title: 志摩凛汤意面
 date: 2024-8-3 22:18:00
-categories: 做饭
+categories: Cook
 tags: 
-    - 做饭
+    - Cook
 ---
 鸽了

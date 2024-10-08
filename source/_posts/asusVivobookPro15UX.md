@@ -1,11 +1,10 @@
 ---
 title: Asus Vivobook Pro 15 (N6506MV) 使用体验
 date: 2024-4-15 17:56:00
-categories: 测评
+categories: Test&Evaluate
 tags: 
-    - 测评
-    - 笔记本
-    - 华硕
+    - Test&Evaluate
+    - Laptop
 ---
 # 包装 外观 及规格
 ## 包装
