@@ -8,7 +8,7 @@ links:
     title: Jackie的小角落
     url: https://jackiecat.top/
     img_url: https://s2.loli.net/2024/05/09/VqCwl3RIPyHo4uD.jpg
-    text: 喵？(PS:是特意把Jackie和雨宸放一起的(逃)
+    text: 喵？
 - link:
     title: 落雨宸
     url: https://lzc256.com/
@@ -17,7 +17,7 @@ links:
 - link:
     title: Rikkaの小小窝
     url: https://rikka.im/
-    img_url: https://rikka.im/img/avatar_hu9344251879842479875.webp
+    img_url: https://rikka.im/avatar/avatar.webp
     text: 早上好哦(つω`*)～☆
 - link:
     title: SakuraKooi's Blog
@@ -60,9 +60,9 @@ links:
     img_url: https://lovemen.cc/usr/hotlink-ok/avatar.jpg
     text: 一颗烂橘子
 - link:
-    title: 中弦星空魔法屋
-    url: https://blog.sinzmise.top/
-    img_url: https://blog.sinzmise.top/img/512.png
+    title: 汐塔魔法屋
+    url: https://blog.storical.space/
+    img_url: https://blog.storical.space/images/icon.png
     text: 种下一颗有故事的种子，让它带着魔法和奇迹生根发芽
 - link:
     title: TaranakiNeko
@@ -136,9 +136,19 @@ links:
     text: // flow just like liquid ice.
 - link:
     title: Ros' MainPage
-    url: https://rosmontis.rhodes-island.work/
-    img_url: https://rosmontis.rhodes-island.work/img/ros.jpg
+    url: https://rosmontis2333.github.io
+    img_url: https://rosmontis2333.github.io/img/ros.jpg
     text: 喵喵喵猫猫
+- link:
+    title: PuddingKCの小站
+    url: https://www.puddingkc.com/
+    img_url: https://img.fastmirror.net/s/2024/11/12/67335aef723ed.png
+    text: 愿你所热爱的依旧不减当年。
+- link:
+    title: MBRjun-Blog
+    url: https://www.mbrjun.cn/
+    img_url: https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg
+    text: 我们生活在大地上，但我们的梦想超越天空
 
 # 无法正常访问的:
 # - link:
