@@ -90,11 +90,6 @@ links:
     img_url: https://www.zidusama.xyz/wp-content/uploads/2024/01/8585-150x150.jpg
     text: 这个人很懒, 没有什么想写的.
 - link:
-    title: ZhouHu的博客
-    url: https://gitpor.cn/
-    img_url: https://gitpor.cn/assets/46279874.jpg
-    text: 人生最大的障碍就是孤独,我们既无法理解也无法解决孤独,但孤独能促使倩倩.
-- link:
     title: Old_Whale的博客
     url: https://www.cube-aquarium.url/
     img_url: https://cravatar.cn/avatar/ef4d54c98fb592d4cca1c9f4ae54e45e?s=56&d=identicon&r=pg
