@@ -5,7 +5,7 @@ keywords: null
 author: Souiken
 language: zh-CN
 timezone: ''
-url: http://example.com
+url: https://blog.souiken.moe
 permalink: 'post/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -123,3 +123,16 @@ markdown:
     permalinkSymbol: "¶"
     case: 0
     separator: "-"
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
