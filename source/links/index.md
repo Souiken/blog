@@ -11,9 +11,9 @@ links:
     text: 喵？
 - link:
     title: 落雨宸
-    url: https://lzc256.com/
-    img_url: https://s1.lzc256.com/firefish/firefish/9c4ab03d-f895-4b94-a4d9-e8a3ab578e16.jpg
-    text: 苦逼高中牲，二分之一少女。
+    url: https://blog.lzc256.com/
+    img_url: https://avatars.githubusercontent.com/u/36326574?v=4
+    text: 苦逼大学牲，二分之一少女。
 - link:
     title: Rikkaの小小窝
     url: https://rikka.im/
@@ -47,13 +47,8 @@ links:
 - link:
     title: Amane's Blog
     url: https://blog.amane.icu/links/
-    img_url: https://cfdn.nofated.win/avatars/avatar.webp
+    img_url: https://cloudflare.endpoint.amaneus.net/avatars/avatar.webp
     text: 这个人很懒, 没有什么想写的.
-- link:
-    title: 绒绒洛
-    url: https://qwq.dog
-    img_url: https://qwq.dog/pic/avatar.png
-    text: 俯いたまま大人になって
 - link:
     title: 橘纸柚
     url: https://lovemen.cc/
@@ -83,11 +78,6 @@ links:
     title: Cloudw233的博客
     url: https://cloudw233.netlify.app/
     img_url: https://cloudw233.netlify.app/assets/img/auther.jpg
-    text: 这个人很懒, 没有什么想写的.
-- link:
-    title: 23335507的博客
-    url: https://www.233355607.xyz/
-    img_url: https://www.zidusama.xyz/wp-content/uploads/2024/01/8585-150x150.jpg
     text: 这个人很懒, 没有什么想写的.
 - link:
     title: Old_Whale的博客
@@ -161,6 +151,16 @@ links:
 #     url: https://yma.zyghit.cn/
 #     img_url: https://i.zyghit.cn/img/QQ%E5%9B%BE%E7%89%8720210523212348.jpg
 #     text: 追随心中的信念.
+# - link:
+#     title: 绒绒洛
+#     url: https://qwq.dog
+#     img_url: https://qwq.dog/pic/avatar.png
+#     text: 俯いたまま大人になって
+# - link:
+#     title: 23335507的博客
+#     url: https://www.233355607.xyz/
+#     img_url: https://www.zidusama.xyz/wp-content/uploads/2024/01/8585-150x150.jpg
+#     text: 这个人很懒, 没有什么想写的.
 ---
 >需要交换友链请发送邮件至[souiken@qq.com](mailto:souiken@qq.com)
 >或发送评论
