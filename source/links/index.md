@@ -5,6 +5,16 @@ layout: links
 email: souiken@qq.com
 links:
 - link:
+    title: aisuneko/blog
+    url: https://aisuneko.moe/
+    img_url: https://aisuneko.moe/images/avatar.webp
+    text: // flow just like liquid ice.
+- link:
+    title: Rikkaの小小窝
+    url: https://rikka.im/
+    img_url: https://rikka.im/avatar/avatar.webp
+    text: 早上好哦(つω`*)～☆
+- link:
     title: Jackie的小角落
     url: https://jackiecat.top/
     img_url: https://s2.loli.net/2024/05/09/VqCwl3RIPyHo4uD.jpg
@@ -14,11 +24,6 @@ links:
     url: https://blog.lzc256.com/
     img_url: https://avatars.githubusercontent.com/u/36326574?v=4
     text: 苦逼大学牲，二分之一少女。
-- link:
-    title: Rikkaの小小窝
-    url: https://rikka.im/
-    img_url: https://rikka.im/avatar/avatar.webp
-    text: 早上好哦(つω`*)～☆
 - link:
     title: SakuraKooi's Blog
     url: https://blog.sakurakooi.dev/
@@ -114,11 +119,6 @@ links:
     url: https://blog.cascade.moe/
     img_url: https://cascade.moe/images/avatar.webp
     text: 工程师猫娘
-- link:
-    title: aisuneko/blog
-    url: https://aisuneko.moe/
-    img_url: https://aisuneko.moe/images/avatar.webp
-    text: // flow just like liquid ice.
 - link:
     title: Ros' MainPage
     url: https://rosmontis2333.github.io
