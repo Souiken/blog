@@ -15,6 +15,11 @@ links:
     img_url: https://rikka.im/avatar/avatar.webp
     text: 早上好哦(つω`*)～☆
 - link:
+    title: Ameyama Mio's Blog
+    url: https://aneko.moe/
+    img_url: https://avatars.githubusercontent.com/u/50656066
+    text: 我很困，但却不想睡，我很想妳，但却没找妳。
+- link:
     title: Jackie的小角落
     url: https://jackiecat.top/
     img_url: https://s2.loli.net/2024/05/09/VqCwl3RIPyHo4uD.jpg
